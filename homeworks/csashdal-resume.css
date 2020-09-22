@@ -1,0 +1,50 @@
+* 
+{
+    font-size: 100%;
+    margin: 3px;
+    font-weight: 350;
+    padding: 2px;
+    }
+main#gradientBG {
+    background-image: url("./gradient_bg.png");
+    background-repeat: repeat-x;
+    margin: 15px;
+}
+body {
+    background-color: white;
+}
+h1 {
+    font-family: link href="https://fonts.googleapis.com/css2?family=Oswald:wght@700&display=swap" rel="stylesheet"; 
+    color: #FF70A6;
+    font-size: 350%;
+    padding: 3px;
+    margin: 3px;
+    width: 1100px;
+    font-weight: 700;
+}
+h2 {
+    font-family: link href="https://fonts.googleapis.com/css2?family=Oswald:wght@400;700&display=swap" rel="stylesheet";
+    color: #FF70A6;
+    font-size: 175%;
+    margin: 5px; 
+}
+h3 {
+    font-family: link href="https://fonts.googleapis.com/css2?family=Oswald:wght@300&display=swap" rel="stylesheet";
+    color: #70D6FF;
+    font-size: 130%;
+    margin: 5px;
+}
+p {
+    font-family: link href="https://fonts.googleapis.com/css2?family=Oswald:wght@200&display=swap" rel="stylesheet";
+    color: #FF9770;
+    font-size: 115%;
+    padding: 5px;
+    margin: 5px;
+}
+li {
+    font-family: link href="https://fonts.googleapis.com/css2?family=Oswald:wght@200&display=swap" rel="stylesheet";
+    color:#ffa2c6;
+    font-size: 100%;
+    padding: 0px;
+    margin: 2px;
+}
